@@ -1,6 +1,7 @@
 {
   "name": "hy-music-web-music",
   "version": "0.1.0",
+  "description": "A React-based music player web application inspired by NetEase Cloud Music",
   "private": true,
   "dependencies": {
     "@ant-design/icons": "^4.2.1",
