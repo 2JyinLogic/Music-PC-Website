@@ -9,4 +9,4 @@ module.exports = {
       "components": resolve("src/components")
     }
   }
-}
+};
